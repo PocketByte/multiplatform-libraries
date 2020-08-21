@@ -468,5 +468,10 @@
     "github": "microutils/kotlin-logging",
     "category": "Logging",
     "maven": "https://dl.bintray.com/microutils/kotlin-logging/io/github/microutils/kotlin-logging/"
+  },
+  {
+    "github": "PocketByte/LocoLaser",
+    "category": "Resources",
+    "maven": "https://dl.bintray.com/pocketbyte/maven/ru/pocketbyte/locolaser/core/"
   }
 ]
